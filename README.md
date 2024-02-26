@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello world 👋
+
+### 🛠️ Tools
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ailov99&layout=compact&hide=css,HTML,JavaScript,Python,Makefile,Assembly,Emacs+Lisp,CMake)
+
+### 🔭 Projects
+Non-proprietary pinned below.
 
 <!--
 **ailov99/ailov99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
